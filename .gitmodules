@@ -1,0 +1,12 @@
+[submodule "cssforjs-character-creator"]
+	path = cssforjs-character-creator
+	url = git@github.com:janmagnusdev/cssforjs-character-creator.git
+[submodule "cssforjs-button-component"]
+	path = cssforjs-button-component
+	url = git@github.com:janmagnusdev/cssforjs-button-component.git
+[submodule "mini-component-library"]
+	path = mini-component-library
+	url = git@github.com:janmagnusdev/cssforjs-component-library.git
+[submodule "cssforjs-huckleberry"]
+	path = cssforjs-huckleberry
+	url = git@github.com:janmagnusdev/cssforjs-huckleberry.git
