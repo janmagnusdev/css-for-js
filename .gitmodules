@@ -10,3 +10,6 @@
 [submodule "cssforjs-huckleberry"]
 	path = cssforjs-huckleberry
 	url = git@github.com:janmagnusdev/cssforjs-huckleberry.git
+[submodule "cssforjs-component-library"]
+	path = cssforjs-component-library
+	url = git@github.com:janmagnusdev/cssforjs-component-library.git
